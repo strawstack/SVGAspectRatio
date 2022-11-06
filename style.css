@@ -13,7 +13,7 @@ body {
     color: #444;
 
     display: grid;
-    grid-template-rows: 1fr minmax(0px, 1280px) 1fr;
+    grid-template-rows: 1fr minmax(0px, 720px) 1fr;
     grid-template-columns: 1fr minmax(0px, 1280px) 1fr;
 }
 
